@@ -1,6 +1,6 @@
 # DOOM PSX: Frontier of Agony [? Levels, Eternity 4.03 UDMF, DOOM 2]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: 🧊FROZEN
 
 # Actual screenshots:
 ![Screen1](./screens/1.png)
